@@ -1,5 +1,5 @@
 # Range query Data Structure
-### Common usecases : Min/Max/Sum in a range
+### Common usecases : Min/Max/Sum in a range for a mutable array
 
 ## Segment tree
 - Segment tree devides the entire range(root node) into subranges(each of equal size) and stores the result as node values
