@@ -8,6 +8,8 @@
 
 ### build(idx, low, high) Time O(n)
 - Use left and right population at each level
+ 
+![image](https://github.com/user-attachments/assets/8d927232-bffe-4b5f-b37a-ad1568755445)
 
 ### query(idx, low, high, rangeLow, rangeHigh) Time O(log n)
 - No overlap : Don't use the result 
