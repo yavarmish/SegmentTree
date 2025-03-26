@@ -18,3 +18,5 @@
 
 ### update(idx, low, high, id, val) Time O(log n)
 - Update required index and following nodes going upwards	
+
+### add - rangeupdate(using lazy propogation)
